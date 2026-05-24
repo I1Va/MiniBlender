@@ -1,7 +1,6 @@
 .vscode/
 build/
 notes/
-release.sh
 debug.sh
 
 gdb.sh
